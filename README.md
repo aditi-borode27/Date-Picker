@@ -13,7 +13,7 @@ npm run dev    # For npm users
 yarn dev       # For yarn users
 pnpm dev       # For pnpm users
 bun dev        # For bun users
-
+```
 Then open http://localhost:3000 in your browser to see the result.
 
 Editing Pages
