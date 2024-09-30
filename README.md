@@ -45,5 +45,6 @@ To learn how to deploy Next.js apps on Vercel, refer to the [Next.js deployment 
 
 ### Project Preview
 #### Main Features:
-Responsive and intuitive date picker component
-Customizable recurring date options
+Responsive and intuitive date picker component.
+
+Customizable recurring date options.
