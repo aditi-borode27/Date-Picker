@@ -31,7 +31,9 @@ This project uses [next/font](https://nextjs.org/docs/basic-features/font-optimi
 To learn more about Next.js, check out these resources:
 
 [Next.js Documentation](https://nextjs.org/docs) - Features and API details.
+
 [Learn Next.js](https://nextjs.org/learn) - Interactive tutorial to get hands-on with Next.js.
+
 You can also explore the [Next.js GitHub repository ](https://github.com/vercel/next.js/) for feedback and contributions.
 
 ### Deploy on Vercel
